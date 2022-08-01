@@ -1,3 +1,11 @@
 #logoAP{
     width: 200px;
 }
+
+@media (max-width: 575px){
+    #boton{
+        margin:20px
+        
+        
+    }
+}
